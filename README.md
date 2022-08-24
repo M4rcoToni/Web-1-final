@@ -13,4 +13,4 @@ Para rodar o Server, outro cmd na pasta:
 
 **Video demonstrando o funcionamento**
 
-![alt text](https://github.com/M4rcoToni/webfinal/demo.gif)
+![alt text](https://github.com/M4rcoToni/webfinal/blob/master/demo.gif)
