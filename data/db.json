@@ -1,15 +1,57 @@
 {
   "todos": [
     {
-      "id": 0.13717672025600258,
-      "title": "rset",
-      "time": "4",
+      "id": 0.5491290492642611,
+      "title": "Aula 1 - HTML",
+      "time": "30 min",
       "done": false
     },
     {
-      "id": 0.5772656185015135,
-      "title": "d",
-      "time": "d",
+      "id": 0.6075217436819478,
+      "title": "Aula 2 - CSS",
+      "time": "30 min",
+      "done": false
+    },
+    {
+      "id": 0.44091599052426234,
+      "title": "Aula 3 - Grid Layout CSSURL",
+      "time": "1 h",
+      "done": false
+    },
+    {
+      "id": 0.4638674993059748,
+      "title": "Atividade 4 - Layout com HTML e CSS",
+      "time": "2 h",
+      "done": false
+    },
+    {
+      "id": 0.24884620014150416,
+      "title": "Aula 4 - JS + Exercicios",
+      "time": "2 h",
+      "done": false
+    },
+    {
+      "id": 0.5591459005671342,
+      "title": "Atividade Avaliativa HTML - CSS e JS",
+      "time": "4 h",
+      "done": false
+    },
+    {
+      "id": 0.0883965369508466,
+      "title": "Aula 5 - JS - Objetos Math e Date - Arrays e String",
+      "time": "1 h",
+      "done": false
+    },
+    {
+      "id": 0.30413602240289395,
+      "title": "Aula 6 - React ",
+      "time": "2 h",
+      "done": false
+    },
+    {
+      "id": 0.10586288589369519,
+      "title": "React - Vídeo 2",
+      "time": " 1 h",
       "done": false
     }
   ]

@@ -83,7 +83,7 @@ setTodos((prevState)=> [...prevState, todo]);
   return (
     <div className="App">
         <div className='todo-header'>
-          <h1>React Todo</h1>
+          <h1>Agenda de WEB 1</h1>
         </div>
         <div className='form-todo'>
           <h2>Insira a sua proxima tarefa:</h2>
