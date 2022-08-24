@@ -1,8 +1,7 @@
 html{
   background: linear-gradient(
-    195deg,
-    rgba(240, 98, 146, 1) 0%,
-    rgba(221, 98, 133, 1) 0%
+    rgb(33, 202, 245),
+    rgb(78, 93, 230) 
   );
 }
 body{

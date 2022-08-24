@@ -46,13 +46,13 @@
       "id": 0.30413602240289395,
       "title": "Aula 6 - React ",
       "time": "2 h",
-      "done": false
+      "done": true
     },
     {
       "id": 0.10586288589369519,
       "title": "React - Vídeo 2",
       "time": " 1 h",
-      "done": false
+      "done": true
     }
   ]
 }

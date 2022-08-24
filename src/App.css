@@ -12,7 +12,8 @@
     text-align: center;
 }
 .todo-header h1{
-    margin: 0;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .form-todo{
     padding: 1em;
@@ -33,7 +34,7 @@
 
 .form-control label{
     font-weight: bold;
-    font-size: .7em;
+    font-size: .9em;
     margin-bottom: .4em;
 }
 .form-control input{
@@ -54,7 +55,9 @@ input[type="submit"]{
     padding: 1em;
     cursor: pointer;
 }
-
+input[type="submit"]:hover{
+    background-color: rgb(78, 93, 230) ;
+}
 .list-todo{
     padding: 0 1em 2em;
     margin: 1em 2em;
@@ -77,7 +80,7 @@ input[type="submit"]{
 
 .todo-done{
     text-decoration: line-through;
-    color: rgb(240,98,146);
+    color: rgb(33, 202, 245);
 }
 
 .todo p {
@@ -94,7 +97,7 @@ input[type="submit"]{
 }
 
 .todo svg:hover{
-    color: rgb(240,98,146);
+    color: rgb(33, 202, 245);
 
 }
 
